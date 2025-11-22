@@ -130,7 +130,7 @@ export default function About() {
                   </p>
                 </div>
                 <p className="text-sm text-gray-600 mt-6">
-                  ingombrante© | Constitutional AI Pioneer
+                  ingombrante | Constitutional AI Pioneer
                 </p>
               </div>
             </Card>
