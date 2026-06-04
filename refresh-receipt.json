@@ -1,0 +1,7 @@
+{
+  "worker_write_proof": true,
+  "tested_at": "2026-06-04T15:09:15.726483Z",
+  "tested_by": "ETHRAEON Maven Bus 1 direct write test",
+  "path": "refresh-receipt.json",
+  "note": "Worker GITHUB_TOKEN_ETHRAEON_SYSTEMS secret is seated. This write proves the credential works for the worker's target."
+}
