@@ -1,7 +1,8 @@
 {
-  "worker_write_proof": true,
-  "tested_at": "2026-06-04T15:09:15.726483Z",
-  "tested_by": "ETHRAEON Maven Bus 1 direct write test",
-  "path": "refresh-receipt.json",
-  "note": "Worker GITHUB_TOKEN_ETHRAEON_SYSTEMS secret is seated. This write proves the credential works for the worker's target."
+  "refreshed_at": "2026-06-05T00:00:19.223Z",
+  "chain": "687e0c0f",
+  "forge": "0768",
+  "worker": "public-home-refresh",
+  "status": "OK",
+  "note": "Automated refresh via Cloudflare Worker scheduled job"
 }
