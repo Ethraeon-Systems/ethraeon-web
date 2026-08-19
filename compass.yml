@@ -1,0 +1,15 @@
+name: ethraeon-web
+id: ari:cloud:compass:642a4598-b478-46b8-9ea8-a04b4063efb4:component/b2feda24-9f45-44dc-b8cd-ad95a7e6d204/a27b9a2f-84ed-48f4-96fe-565662bef060
+description: Ethraeon Public Web Surface
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+  - synced-with-jsm
+customFields: null
